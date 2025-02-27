@@ -1,0 +1,2 @@
+floor = 7//3 == int(2.7)
+print("¿El piso 7x3 es igual al valor 2.7?", floor)
