@@ -1,2 +1,11 @@
-floor = 7//3 == int(2.7)
-print("¿El piso 7x3 es igual al valor 2.7?", floor)
+
+print("N 1 N N*2 N*3")
+for i in range(1, 6):
+    print("Numeros", i)
+    print("Unos", 1)
+    print("Numeros", i)
+    print("Numeros al cuadrado", i**2)
+    print("Numeros al cubo", i**3)
+
+
+   

@@ -132,5 +132,33 @@ floor = 7//3 == int(2.7)
 print("¿El piso 7x3 es igual al valor 2.7?", floor)
 
 
-#19
+#19 Tipo de 10 
+tipode10= type("10")
+tipode10entero= type(10)
+if tipode10 == tipode10entero:
+    print("Los dos son iguales.")
+else:
+    print("Los dos son distintos.")
 
+#20 Comprobar si 9.8 es igual a 10
+valorde98 = int("9.8")
+if valorde98 == 10:
+    print("El valor es igual a 10.")
+else:
+    print("El valor no es igual a 10.") #Preguntar a profe que es "Value error"
+
+#21 Tarifa de horas
+horas = float(input("Introduce tus horas:"))
+tarifa = float(input("Intruduce tu tarifa por hora:"))
+tupagosemanal= horas * tarifa
+print("Tu pago de la semana es:", tupagosemanal)
+
+#22 Segundos de vida
+años = float(input("Ingrese el numero de años que has vivido:"))
+segundosdevida = años * 365 *24 *3600
+print("Los segundos que has vivido son:", segundosdevida)
+
+#23 Tabla
+print("N 1 N *2 *3")
+for i in range(1, 6):
+    print(i, 1, i, i**2, i**3)
