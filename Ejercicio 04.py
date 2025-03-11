@@ -127,8 +127,8 @@ Frase = "Codificacion para todos"
 print(Frase.endswith("Codificacion"))
 
 #'Codificación para todos' (30)
-Frase = "      Codificacion para todos      "
-print(Frase.strip("       "))
+Frase = "      Codificacion para todos"
+print(Frase.strip("_______"))
 
 #¿Cuál de las siguientes variables devuelve Verdadero cuando usamos el método isidentifier()? (31)
 Frase = "30 dias de Python"
@@ -174,3 +174,4 @@ Division = a / b
 Porcentaje = a % b
 Potencia = a ** b
 Divf = a // b
+
