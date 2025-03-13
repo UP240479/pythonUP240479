@@ -63,4 +63,4 @@ del food_stuff_tp
 #6
 paisesnordicos = ("Denmark", "Iceland", "Finland", "Norway", "Sweden")
 print("Estonia" in paisesnordicos)
-print("Islandia" in paisesnordicos)
+print("Iceland" in paisesnordicos)
