@@ -1,5 +1,3 @@
-#INICIO DIA 8
-
 #Crea un diccionario vacío llamado perro
 PerroVacio = {}
 
