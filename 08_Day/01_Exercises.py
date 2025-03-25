@@ -2,25 +2,25 @@
 PerroVacio = {}
 
 #Añade nombre, color, raza, patas y edad al diccionario de perros.
-Perro = {"Nombre":"Kichi", 
+Perro = {"Nombre":"Yuyin", 
    "Edad":"12 años", 
-    "Raza":"Pitbull", 
+    "Raza":"Pug", 
    "Patas":"4"}
 print(Perro)
 
 #Cree un diccionario de estudiantes y agregue nombre, apellido, genero, edad, estado civil, habilidades, pais, cuidad y direccion como claves en el diccionario
 Estudiantes = {
-    "Nombre":"Christian",
-    "Apellidos":"Morales Vazquez",
+    "Nombre":"Liam",
+    "Apellidos":"Hernandez Romo",
     "Genero":"Hombre",
     "Edad":"18a años",
     "Estado civil":"Soltero",
-    "Habilidades":"Bueno en basketball",
+    "Habilidades":"Bueno leyendo",
     "Pais":"Mexico",
-    "Cuidad":"Aguascalienmtes",
+    "Cuidad":"Encarnacion de Diaz",
     "Direccion":{
-        "Calle":"Antonio Hernandez Gallegos",
-        "CP":"20206",
+        "Calle":"Rosa del Tepeyac",
+        "CP":"47270",
     }
 }
 print(Estudiantes)
@@ -32,7 +32,7 @@ print(len(Estudiantes))
 print(Estudiantes["Habilidades"])
 
 #Modifique los valores de las habilidades agregando una o dos habilidades
-Estudiantes["Habilidades"] = "Hiper foco"
+Estudiantes["Habilidades"] = "😎"
 print(Estudiantes)
 
 #Obtenga las claves del diccionario como una lista
