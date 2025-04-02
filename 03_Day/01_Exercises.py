@@ -1,4 +1,12 @@
-#Día 3
+#Mi edad (1)
+miEdad = 18
+
+#Declara mi altura (2)
+miAltura = 1.75
+
+#Numero complejo (3)
+z = 4 +3j
+
 #Área triángulo (4)
 base = float(input("ingresa el valor de la base:"))
 altura = float(input("ingrese el valor de la altura:"))
