@@ -32,3 +32,5 @@ if chckfruit in fruits:
 else:
     fruits.append(chckfruit)
     print(fruits) 
+
+print("revisado")

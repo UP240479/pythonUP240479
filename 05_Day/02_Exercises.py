@@ -13,4 +13,5 @@ edades.insert(10, "26")
 #Encuentra la edad media (un elemento intermedio o dos elementos intermedios divididos por dos)
 print(len(edades))
 
+print("revisado")
 
