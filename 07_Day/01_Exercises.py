@@ -24,3 +24,4 @@ print("Con remove quitamos un elemento de forma permanente del set")
 print("Con Discard descartamos un elemento pro una sola vez, hasta que se vuelve a ejecutar")
 
 
+print("revisado")

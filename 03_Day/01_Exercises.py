@@ -170,3 +170,5 @@ print("Los segundos que has vivido son:", segundosdevida)
 print("N 1 N *2 *3")
 for i in range(1, 6):
     print(i, 1, i, i**2, i**3)
+
+print("revisado")
